@@ -1,6 +1,6 @@
-# React-Hook-Size
+# React-Size-Hook
 
-React-hook-size is a React hook designed to calculate the screen size. It's helpful to identify what kind o device the page is being rendered and conditionally render something based on that info.
+React-size-hook is a React hook designed to calculate the screen size. It's helpful to identify what kind o device the page is being rendered and conditionally render something based on that info.
 
 ## Installation
 
@@ -8,10 +8,10 @@ React-Scrollbar-Size is available as an [npm package](https://www.npmjs.com/sear
 
 ```bash
 # using npm
-npm i react-hook-size
+npm i react-size-hook
 
 # using yarn
-yarn add react-hook-size
+yarn add react-size-hook
 ```
 
 ## Usage
