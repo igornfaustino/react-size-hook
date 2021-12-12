@@ -4,7 +4,7 @@ React-size-hook is a React hook designed to calculate the screen size. It's help
 
 ## Installation
 
-React-Scrollbar-Size is available as an [npm package](https://www.npmjs.com/search?q=react-size-hook):
+React-Size-Hook is available as an [npm package](https://www.npmjs.com/search?q=react-size-hook):
 
 ```bash
 # using npm
